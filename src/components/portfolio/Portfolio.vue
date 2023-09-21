@@ -5,7 +5,7 @@
 </template>
 <script>
 import { mapGetters } from "vuex";
-import Stock from "./portStock.vue";
+import Stock from "./PortStock.vue";
 export default {
   computed: {
     ...mapGetters({

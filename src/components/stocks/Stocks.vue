@@ -5,7 +5,7 @@
   </div>
 </template>
 <script>
-import Stock from "./stockStock.vue";
+import Stock from "./StockPlaceStock.vue";
 export default {
   components: {
     Stock,
